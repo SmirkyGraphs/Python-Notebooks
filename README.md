@@ -8,3 +8,4 @@
 * [Gina Q3 Donation](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/Gina%20Donations/Gina%20Q3%20Donations.ipynb)
 * [Titanic Project](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/Titanic/Titanic%20Project.ipynb)
 * [Iris Plants](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/Iris%20Plants/Iris%20Species%20Prediction.ipynb)
+* [House Price Prediction](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/House%20Price%20Predictions/house-prices-prediction.ipynb)
