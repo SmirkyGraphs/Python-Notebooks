@@ -1,0 +1,34 @@
+rndon,RN Director of Nursing
+rnadmin,Registered Nurse (Admin)
+rn,Registered Nurse
+lpnadmin,Licensed Practical Nurse (Admin)
+lpn,Licensed Practical Nurse
+cna,Certified Nursing Assistant
+natrn,Nurse aide in training
+medaide,Med Aide/Technician
+admin,Administrator
+meddir,Medical Director
+othmd,Other Physician
+pa,Physician Assistant
+np,Nurse Practitioner
+clinnrsspec,Clinical Nurse Specialist
+pharmacist,Pharmacist
+dietician,Dietician
+feedasst,Feeding Assistant
+ot,Occupational Therapist
+otasst,Occupational Therapy Assistant
+otaide,Occupational Therapy Aide
+pt,Physical Therapist
+ptasst,Physical Therapy Assistant
+ptaide,Physical Therapy Aide
+respther,Respiratory Therapist
+resptech,Respiratory Therapy Technician
+spclangpath,Speech/Language Pathologist
+therrecspec,Therapeutic Recreation Specialist
+qualactvprof,Qualified Activities Professional
+othactv,Other Activities Staff
+qualsocwrk,Qualified Social Worker
+othsocwrk,Other Social Worker
+mhsvc,Mental Health Service Worker
+foodsvc,Feeding Assistant
+totalhrs,total hrs

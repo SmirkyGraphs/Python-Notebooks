@@ -1,0 +1,62 @@
+Processing Date
+Provider Address
+Provider City
+Provider State
+Provider Zip Code
+Provider Phone Number
+Provider SSA County Code
+Provider County Name
+Average Number of Residents Per Day
+Provider Type
+Provider Resides in Hospital
+Legal Business Name
+Date First Approved to Provide Medicare and Medicaid services
+Continuing Care Retirement Community
+Special Focus Facility
+Most Recent Health Inspection More Than 2 Years Ago
+With a Resident and Family Council
+Overall Rating Footnote
+Health Inspection Rating Footnote
+QM Rating Footnote
+Staffing Rating Footnote
+RN Staffing Rating Footnote
+Reported Staffing Footnote
+Physical Therapist Staffing Footnote
+Reported CNA Staffing Hours per Resident per Day
+Reported LPN Staffing Hours per Resident per Day
+Reported RN Staffing Hours per Resident per Day
+Reported Licensed Staffing Hours per Resident per Day
+Reported Total Nurse Staffing Hours per Resident per Day
+Reported Physical Therapist Staffing Hours per Resident Per Day
+Expected CNA Staffing Hours per Resident per Day
+Expected LPN Staffing Hours per Resident per Day
+Expected RN Staffing Hours per Resident per Day
+Expected Total Nurse Staffing Hours per Resident per Day
+Adjusted CNA Staffing Hours per Resident per Day
+Adjusted LPN Staffing Hours per Resident per Day
+Adjusted RN Staffing Hours per Resident per Day
+Adjusted Total Nurse Staffing Hours per Resident per Day
+Number of Health Deficiencies on Survey Under New Process
+Severity of Most Severe Deficiency Cited Under New Process
+Largest Number of Residents Affected by Deficiency Cited Under New Process
+Date of Previous Standard Health Inspection
+Number of Health Deficiencies on Previous Standard Health Inspection
+Rating Cycle 1 Standard Survey Health Date
+Rating Cycle 1 Total Number of Health Deficiencies
+Rating Cycle 1 Number of Standard Health Deficiencies
+Rating Cycle 1 Number of Complaint Health Deficiencies
+Rating Cycle 1 Health Deficiency Score
+Rating Cycle 1 Number of Health Revisits
+Rating Cycle 1 Health Revisit Score
+Rating Cycle 1 Total Health Score
+Rating Cycle 2 Standard Health Survey Date
+Rating Cycle 2 Total Number of Health Deficiencies
+Rating Cycle 2 Number of Standard Health Deficiencies
+Rating Cycle 2 Number of Complaint Health Deficiencies
+Rating Cycle 2 Health Deficiency Score
+Rating Cycle 2 Number of Health Revisits
+Rating Cycle 2 Health Revisit Score
+Rating Cycle 2 Total Health Score
+Location
+Processing Date
+lat_lon
