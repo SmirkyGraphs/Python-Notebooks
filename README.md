@@ -2,6 +2,8 @@
 
 ## Index (Newest to Oldest)
 
+* [RI Bills Held for Further Study](#ri-held-for-study)
+* [RI Executive Appointments](#ri-executive-appointments)
 * [ASK-RI A to Z Databases](#a-z-databases)
 * [RI State of the State](#state-of-the-state)
 * [RI Public Schools Daily Attendance](#public-daily-attendance)
@@ -21,6 +23,20 @@
 
 <section id="a-z-databases"></section>
 
+## RI Bills Held for Further Study
+Tools used: `pandas` <br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-school-performance/school-performance-cleaning.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-school-attendance/ri-school-attendance.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-daily-school-attendance)
+
+<section id="a-z-databases"></section>
+
+## RI Executive Appointments
+Tools used: `selenium` `pandas` <br>
+Skills used: `webscraping` `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-school-performance/school-performance-cleaning.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-school-attendance/ri-school-attendance.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-daily-school-attendance)
+
+<section id="a-z-databases"></section>
+
 ## ASK-RI A to Z Databases
 Tools used: `pandas` <br>
 Skills used: `data-cleaning`<br>
@@ -31,7 +47,7 @@ Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-
 ## RI State of the State
 Tools used: `pandas` `nltk`<br>
 Skills used: `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-school-performance/school-performance-cleaning.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-school-attendance/ri-school-attendance.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-sots-2019)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/ri-state-of-the-state/notebooks)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/tree/master/ri-state-of-the-state/notebooks/)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-sots-2019)
 
 <section id="public-daily-attendance"></section>
 
@@ -49,10 +65,10 @@ Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-
 
 <section id="voter-turnout"></section>
 
-## RI Voter Turnout (2016) (fix) 
+## RI Voter Turnout (2016)
 Tools used: `pandas`<br>
 Skills used: `data-cleaning`<br> 
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-voter-turnout/ri-voter-turnout.ipynb)  | [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-voter-turnout/ri-voter-turnout.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-daily-school-attendance)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-voter-turnout/ri-voter-turnout.ipynb)  | [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-voter-turnout/ri-voter-turnout.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-voter-turnout-dash)
 
 <section id="credit-default-risk"></section>
 
