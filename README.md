@@ -26,14 +26,14 @@
 ## RI Bills Held for Further Study
 Tools used: `pandas` <br>
 Skills used: `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-school-performance/school-performance-cleaning.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-school-attendance/ri-school-attendance.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-daily-school-attendance)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Final Product](#n/a)
 
 <section id="a-z-databases"></section>
 
 ## RI Executive Appointments
 Tools used: `selenium` `pandas` <br>
 Skills used: `webscraping` `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-school-performance/school-performance-cleaning.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-school-attendance/ri-school-attendance.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-daily-school-attendance)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-executive-appointments/executive_appointments_data.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-executive-appointments/executive_appointments_data.ipynb)  |  [Final Product](#n/a)
 
 <section id="a-z-databases"></section>
 
