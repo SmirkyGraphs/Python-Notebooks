@@ -1,5 +1,4 @@
-# Python-Notebooks  
-(Newest to Oldest)
+# Python-Notebooks (Newest to Oldest)
 
 <section id="a-z-databases"></section>
 
