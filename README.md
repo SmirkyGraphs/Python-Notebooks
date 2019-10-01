@@ -1,25 +1,4 @@
-# Python-Notebooks
-
-## Index (Newest to Oldest)
-
-* [RI Bills Held for Further Study](#ri-held-for-study)
-* [RI Executive Appointments](#ri-executive-appointments)
-* [ASK-RI A to Z Databases](#a-z-databases)
-* [RI State of the State](#state-of-the-state)
-* [RI Public Schools Daily Attendance](#public-daily-attendance)
-* [RI Nursing Homes PBJ](#nursing-home-pbj)
-* [RI Voter Turnout](#voter-turnout)
-* [Home Credit Default Risk](#credit-default-risk)
-* [RI Public Schools Performance](#public-school-performance)
-* [RI UCOA Data Cleaning](#ucoa-data-clean)
-* [RI Health Inspections](#health-inspections)
-* [House Price Prediction](#house-price-prediction)
-* [Iris Plants Prediction](#iris-plants)
-* [Gina Q3 Donation](#gina-q3-donations)
-* [Titanic Project](#titanic-analysis)
-* [2016 Election Donations - RI](#ri-election-donations)
-* [2016 Election Donations](#election-donations)
-* [Election Events](#election-events)
+# Python-Notebooks (Newest to Oldest)
 
 <section id="a-z-databases"></section>
 
