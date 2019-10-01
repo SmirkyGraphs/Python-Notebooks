@@ -108,3 +108,6 @@ venv.bak/
 .mypy_cache/
 *.pgw
 *.gpx
+
+# large files
+./ri-dunkin-routes/data/clean/*.csv
