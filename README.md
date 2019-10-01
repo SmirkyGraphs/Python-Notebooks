@@ -2,6 +2,20 @@
 
 <section id="a-z-databases"></section>
 
+## Providence 311 Requests
+Tools used: `pandas` `wordcloud`<br>
+Skills used: `webscraping` `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/pvd-311-requests)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Final Product](#n/a)
+
+<section id="a-z-databases"></section>
+
+## Optimal Route to Every RI Dunkin'
+Tools used: `pandas` `graphhopper` `qgis`<br>
+Skills used: `data-cleaning` `gis`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-dunkin-routes/ri-dunkin-routes.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-dunkin-routes/ri-dunkin-routes.ipynb)  |  [Final Product](#n/a)
+
+<section id="a-z-databases"></section>
+
 ## RI Bills Held for Further Study
 Tools used: `pandas` <br>
 Skills used: `data-cleaning`<br>
