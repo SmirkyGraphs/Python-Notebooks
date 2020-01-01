@@ -116,5 +116,8 @@ ri-dunkin-routes/data/**/**/*.png
 ri-executive-appointments/data/**/*.csv
 
 ri-held-for-study/data/**/*.csv
+
 ri-campaign-finance-fines/data/**/*.pdf
 ri-campaign-finance-fines/data/**/*.csv
+
+ri-schools-immunization/data/**/*.csv
