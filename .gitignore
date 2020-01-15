@@ -125,3 +125,9 @@ ri-state-of-the-state/output/wordcloud/*.png
 ri-state-of-the-state/output/word_count/**/*.csv
 ri-state-of-the-state/files/mask/rhode_island_highres.png
 ri-state-of-the-state/files/font/trebuc.ttf
+reddit-dataisbeautiful-battles/data/clean/placeholder.md
+reddit-dataisbeautiful-battles/data/clean/dataisbeautiful_tools.csv
+reddit-dataisbeautiful-battles/data/files/tools_manual.csv
+reddit-dataisbeautiful-battles/data/raw/competitions.csv
+reddit-dataisbeautiful-battles/data/raw/entries.csv
+reddit-dataisbeautiful-battles/data/raw/winners.csv
