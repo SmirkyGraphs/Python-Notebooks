@@ -14,3 +14,15 @@ job
 jobs
 wage
 wages
+professional
+professionals
+workplaces
+earning
+apprenticeships
+internship
+lowpaying
+technicians
+salary
+machinist
+retirees
+workers

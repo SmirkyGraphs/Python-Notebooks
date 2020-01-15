@@ -20,7 +20,6 @@ school
 schools
 student
 students
-students'
 teach
 teachers
 teaching
@@ -28,3 +27,16 @@ universities
 university
 uri
 ric
+bus
+buses
+ccris
+collegelevel
+curriculum
+educated
+teacher
+thirdgrade
+preschool
+tuition
+courses
+freecollegericom
+
