@@ -123,3 +123,4 @@ ri-campaign-finance-fines/data/**/*.csv
 ri-schools-immunization/data/**/*.csv
 ri-state-of-the-state/output/wordcloud/*.png
 ri-state-of-the-state/output/word_count/**/*.csv
+ri-state-of-the-state/files/mask/rhode_island_highres.png
