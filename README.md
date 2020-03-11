@@ -1,39 +1,39 @@
 # Python-Notebooks (Newest to Oldest)
 
-<section id="a-z-databases"></section>
+<section id="pvd-311"></section>
 
 ## Providence 311 Requests
 Tools used: `pandas` `wordcloud`<br>
 Skills used: `webscraping` `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/pvd-311-requests)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Final Product](#n/a)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/pvd-311-requests)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Final Product](https://ivizri.com/posts/2019/09/providence-311-requests/)
 
-<section id="a-z-databases"></section>
+<section id="dunkin-optimal-routes"></section>
 
 ## Optimal Route to Every RI Dunkin'
 Tools used: `pandas` `graphhopper` `qgis`<br>
 Skills used: `data-cleaning` `gis`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-dunkin-routes/ri-dunkin-routes.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-dunkin-routes/ri-dunkin-routes.ipynb)  |  [Final Product](#n/a)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-dunkin-routes/ri-dunkin-routes.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-dunkin-routes/ri-dunkin-routes.ipynb)  |  [Final Product](https://ivizri.com/posts/2019/07/optimal-route-to-ri-dunkin/)
 
-<section id="a-z-databases"></section>
+<section id="bills-held-study"></section>
 
 ## RI Bills Held for Further Study
 Tools used: `pandas` <br>
 Skills used: `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Final Product](#n/a)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-held-for-study/held-for-study.ipynb)  |  [Final Product](https://ivizri.com/posts/2019/07/held-for-study-to-die/)
 
-<section id="a-z-databases"></section>
+<section id="executive-appointments"></section>
 
 ## RI Executive Appointments
 Tools used: `selenium` `pandas` <br>
 Skills used: `webscraping` `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-executive-appointments/executive_appointments_data.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-executive-appointments/executive_appointments_data.ipynb)  |  [Final Product](#n/a)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-executive-appointments/executive_appointments_data.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-executive-appointments/executive_appointments_data.ipynb)  |  [Final Product](https://ivizri.com/posts/2019/05/rhode-island-executive-appointments/)
 
 <section id="a-z-databases"></section>
 
 ## ASK-RI A to Z Databases
 Tools used: `pandas` <br>
 Skills used: `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-school-performance/school-performance-cleaning.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/ri-school-attendance/ri-school-attendance.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/viz/ri-daily-school-attendance)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/askri-a-z-databases/a-z-databases.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/blob/master/askri-a-z-databases/a-z-databases.ipynb)  |  [Final Product](https://ivizri.com/posts/2019/04/a-to-z-databases/)
 
 <section id="state-of-the-state"></section>
 
