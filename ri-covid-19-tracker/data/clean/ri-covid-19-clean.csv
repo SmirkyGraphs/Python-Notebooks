@@ -1,5 +1,17 @@
-,metric,count,date,new_cases,change_%
-0,RI positive cases,5,3/9/2020,,
-1,RI negative results,58,3/9/2020,,
-2,RI pending tests,24,3/9/2020,,
-3,instructed to self-quarantine,270,3/9/2020,,
+metric,count,date,new_cases,change_%
+RI positive cases,5,3/10/2020,,
+RI negative results,58,3/10/2020,,
+RI pending tests,24,3/10/2020,,
+instructed to self-quarantine,270,3/10/2020,,
+RI positive cases,5,3/11/2020,0.0,0.0
+RI negative results,94,3/11/2020,36.0,0.6206896551724137
+RI pending tests,8,3/11/2020,-16.0,-0.6666666666666667
+instructed to self-quarantine,260,3/11/2020,-10.0,-0.03703703703703709
+RI positive cases,5,3/12/2020,0.0,0.0
+RI negative results,126,3/12/2020,32.0,0.34042553191489366
+RI pending tests,29,3/12/2020,21.0,2.625
+instructed to self-quarantine,275,3/12/2020,15.0,0.05769230769230771
+RI positive cases,14,3/13/2020,9.0,1.7999999999999998
+RI negative results,142,3/13/2020,16.0,0.12698412698412698
+RI pending tests,29,3/13/2020,0.0,0.0
+instructed to self-quarantine,500,3/13/2020,225.0,0.8181818181818181
