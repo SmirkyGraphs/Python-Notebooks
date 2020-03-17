@@ -1,0 +1,9 @@
+{
+    "url": "https://docs.google.com/spreadsheets/d/1n-zMS9Al94CPj_Tc3K7Adin-tN9x1RSjjx2UzJ4SV7Q/export?format=csv&gid=0",
+    "twitter": {
+        "consumer_key": "consumer_key",
+        "consumer_secret": "consumer_secret",
+        "access_token": "access_token",
+        "access_secret": "access_secret"
+    }
+}
