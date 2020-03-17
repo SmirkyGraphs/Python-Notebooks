@@ -1,9 +1,0 @@
-{
-    "url": "https://docs.google.com/spreadsheets/d/1n-zMS9Al94CPj_Tc3K7Adin-tN9x1RSjjx2UzJ4SV7Q/export?format=csv&gid=0",
-    "metric_rename": {
-        "Number of Rhode Island COVID-19 positive (including presumptive positive) cases:": "RI positive cases",
-        "Number of people who had negative test results at RIDOH's State Health Laboratories: ": "RI negative results",
-        "Number of people for whom tests are pending": "RI pending tests",
-        "Approximate number of people who are currently instructed to self-quarantine in Rhode Island because they had direct contact with a person with COVID-19:": "instructed to self-quarantine"
-    }
-}
