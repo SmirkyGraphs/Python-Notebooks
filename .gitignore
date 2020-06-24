@@ -138,3 +138,12 @@ ri-covid-19-tracker/data/raw/ri-covid-19.csv
 ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
 ri-covid-19-tracker/data/raw/ri-covid-19.csv
 ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+pvd-311-requests/data/clean/pvd_311_clean.csv
+pvd-311-requests/data/fireworks.csv
+pvd-311-requests/data/raw/pvd_311_raw.csv
+pvd-firework-complaints/data/clean/pvd_fireworks.csv
+pvd-firework-complaints/data/raw/311_Customer_Service_Requests.csv
+pvd-firework-complaints/data/raw/pvd_311_clean.csv
+pvd-firework-complaints/figures/yearly_graph.png
+ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+ri-covid-19-tracker/data/raw/ri-covid-19.csv
