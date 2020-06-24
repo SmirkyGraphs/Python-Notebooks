@@ -147,3 +147,5 @@ pvd-firework-complaints/data/raw/pvd_311_clean.csv
 pvd-firework-complaints/figures/yearly_graph.png
 ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
 ri-covid-19-tracker/data/raw/ri-covid-19.csv
+ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+ri-covid-19-tracker/data/raw/ri-covid-19.csv
