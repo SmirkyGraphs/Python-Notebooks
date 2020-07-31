@@ -3,7 +3,7 @@
 ## Rhode Island Coronavirus
 Tools used: `pandas`<br>
 Skills used: `data-cleaning`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-covid-19-tracker/ri-covid-19-tracker.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/blob/master/ri-covid-19-tracker/ri-covid-19-tracker.ipynb)  |  [Final Product](https://ivizri.com/posts/2019/09/providence-311-requests/)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-covid-19-tracker/ri-covid-19-tracker.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/blob/master/ri-covid-19-tracker/ri-covid-19-tracker.ipynb)  |  [Final Product](https://github.com/SmirkyGraphs/ri-covid19-updates)
 
 ## Coronavirus COVID-19 Worldwide Dashboard
 Tools used: `pandas`<br>
