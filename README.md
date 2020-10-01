@@ -1,5 +1,25 @@
 # Python-Notebooks (Newest to Oldest)
 
+## Rhode Island Election Analysis
+Tools used: `pandas`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/ri-election-analysis)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/tree/master/ri-election-analysis/)  |  [Final Product](https://ivizri.com/posts/2020/09/ri-primary-mail-in-ballots/)
+
+## Rhode Island Airbnb Analysis
+Tools used: `pandas`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/ri-airbnb-analysis)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/tree/master/ri-airbnb-analysis/)  |  [Final Product](https://ivizri.com/posts/2020/07/rhode-island-airbnb/)
+
+## Rhode Island SBA PPP Loans
+Tools used: `pandas`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/ri-sba-loans)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/tree/master/ri-sba-loans/)  |  [Final Product](https://ivizri.com/posts/2020/07/ri-sba-ppp-loans/)
+
+## Providence 311 Firework Complaints
+Tools used: `pandas` `matplotlib`<br>
+Skills used: `data-cleaning` `visualization`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/pvd-firework-complaints/pvd-firework-complaints.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/blob/master/pvd-firework-complaints/pvd-firework-complaints.ipynb)  |  [Final Product](https://ivizri.com/posts/2020/06/pvd-firework-complaints/)
+
 ## Rhode Island Coronavirus
 Tools used: `pandas`<br>
 Skills used: `data-cleaning`<br>
