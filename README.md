@@ -16,8 +16,8 @@ Skills used: `webscraping` `data-cleaning`<br>
 Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/ri-school-enrollment)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/tree/master/ri-school-enrollment/)  |  [Final Product](https://ivizri.com/posts/2020/02/ri-school-enrollment-shift-1998/)
 
 ## Reddit /r/DataIsBeautiful Competitions
-Tools used: `pandas`<br>
-Skills used: `data-cleaning`<br>
+Tools used: `pandas` `praw`<br>
+Skills used: `data-cleaning` `api`<br>
 Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/reddit-dataisbeautiful-battles/dataisbeautiful-battles.ipynb)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/blob/master/reddit-dataisbeautiful-battles/dataisbeautiful-battles.ipynb)  |  [Final Product](https://public.tableau.com/profile/smirkygraphs#!/vizhome/rDataIsBeautifulMonthlyCompetitions/dash)
 
 ## RI Schools Vaccinations
