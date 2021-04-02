@@ -1,4 +1,5 @@
 state,date,variable,value,type,style
+Rhode Island,2021-03-01,permit,0.0,FFL/LEA,permit
 Rhode Island,2021-02-01,permit,0.0,FFL/LEA,permit
 Rhode Island,2021-01-01,permit,0.0,FFL/LEA,permit
 Rhode Island,2020-12-01,permit,0.0,FFL/LEA,permit
@@ -265,6 +266,7 @@ Rhode Island,1999-04-01,permit,0.0,FFL/LEA,permit
 Rhode Island,1999-03-01,permit,0.0,FFL/LEA,permit
 Rhode Island,1999-02-01,permit,0.0,FFL/LEA,permit
 Rhode Island,1999-01-01,permit,0.0,FFL/LEA,permit
+Rhode Island,2021-03-01,permit_recheck,0.0,FFL/LEA,permit
 Rhode Island,2021-02-01,permit_recheck,0.0,FFL/LEA,permit
 Rhode Island,2021-01-01,permit_recheck,0.0,FFL/LEA,permit
 Rhode Island,2020-12-01,permit_recheck,0.0,FFL/LEA,permit
@@ -531,6 +533,7 @@ Rhode Island,1999-04-01,permit_recheck,,FFL/LEA,permit
 Rhode Island,1999-03-01,permit_recheck,,FFL/LEA,permit
 Rhode Island,1999-02-01,permit_recheck,,FFL/LEA,permit
 Rhode Island,1999-01-01,permit_recheck,,FFL/LEA,permit
+Rhode Island,2021-03-01,handgun,2231.0,FFL/LEA,handgun
 Rhode Island,2021-02-01,handgun,1889.0,FFL/LEA,handgun
 Rhode Island,2021-01-01,handgun,2279.0,FFL/LEA,handgun
 Rhode Island,2020-12-01,handgun,1794.0,FFL/LEA,handgun
@@ -797,6 +800,7 @@ Rhode Island,1999-04-01,handgun,400.0,FFL/LEA,handgun
 Rhode Island,1999-03-01,handgun,481.0,FFL/LEA,handgun
 Rhode Island,1999-02-01,handgun,445.0,FFL/LEA,handgun
 Rhode Island,1999-01-01,handgun,412.0,FFL/LEA,handgun
+Rhode Island,2021-03-01,long_gun,1389.0,FFL/LEA,long_gun
 Rhode Island,2021-02-01,long_gun,1034.0,FFL/LEA,long_gun
 Rhode Island,2021-01-01,long_gun,1421.0,FFL/LEA,long_gun
 Rhode Island,2020-12-01,long_gun,1081.0,FFL/LEA,long_gun
@@ -1063,6 +1067,7 @@ Rhode Island,1999-04-01,long_gun,360.0,FFL/LEA,long_gun
 Rhode Island,1999-03-01,long_gun,395.0,FFL/LEA,long_gun
 Rhode Island,1999-02-01,long_gun,316.0,FFL/LEA,long_gun
 Rhode Island,1999-01-01,long_gun,402.0,FFL/LEA,long_gun
+Rhode Island,2021-03-01,other,154.0,FFL/LEA,other
 Rhode Island,2021-02-01,other,151.0,FFL/LEA,other
 Rhode Island,2021-01-01,other,188.0,FFL/LEA,other
 Rhode Island,2020-12-01,other,110.0,FFL/LEA,other
@@ -1329,6 +1334,7 @@ Rhode Island,1999-04-01,other,,FFL/LEA,other
 Rhode Island,1999-03-01,other,,FFL/LEA,other
 Rhode Island,1999-02-01,other,,FFL/LEA,other
 Rhode Island,1999-01-01,other,,FFL/LEA,other
+Rhode Island,2021-03-01,multiple,448.0,FFL/LEA,multiple
 Rhode Island,2021-02-01,multiple,322.0,FFL/LEA,multiple
 Rhode Island,2021-01-01,multiple,480.0,FFL/LEA,multiple
 Rhode Island,2020-12-01,multiple,343.0,FFL/LEA,multiple
@@ -1595,6 +1601,7 @@ Rhode Island,1999-04-01,multiple,46.0,FFL/LEA,multiple
 Rhode Island,1999-03-01,multiple,49.0,FFL/LEA,multiple
 Rhode Island,1999-02-01,multiple,25.0,FFL/LEA,multiple
 Rhode Island,1999-01-01,multiple,20.0,FFL/LEA,multiple
+Rhode Island,2021-03-01,admin,0.0,FFL/LEA,admin
 Rhode Island,2021-02-01,admin,0.0,FFL/LEA,admin
 Rhode Island,2021-01-01,admin,0.0,FFL/LEA,admin
 Rhode Island,2020-12-01,admin,0.0,FFL/LEA,admin
@@ -1861,6 +1868,7 @@ Rhode Island,1999-04-01,admin,0.0,FFL/LEA,admin
 Rhode Island,1999-03-01,admin,0.0,FFL/LEA,admin
 Rhode Island,1999-02-01,admin,0.0,FFL/LEA,admin
 Rhode Island,1999-01-01,admin,0.0,FFL/LEA,admin
+Rhode Island,2021-03-01,prepawn_handgun,0.0,prepawn,handgun
 Rhode Island,2021-02-01,prepawn_handgun,0.0,prepawn,handgun
 Rhode Island,2021-01-01,prepawn_handgun,0.0,prepawn,handgun
 Rhode Island,2020-12-01,prepawn_handgun,0.0,prepawn,handgun
@@ -2127,6 +2135,7 @@ Rhode Island,1999-04-01,prepawn_handgun,,prepawn,handgun
 Rhode Island,1999-03-01,prepawn_handgun,,prepawn,handgun
 Rhode Island,1999-02-01,prepawn_handgun,,prepawn,handgun
 Rhode Island,1999-01-01,prepawn_handgun,,prepawn,handgun
+Rhode Island,2021-03-01,prepawn_long_gun,0.0,prepawn,long_gun
 Rhode Island,2021-02-01,prepawn_long_gun,0.0,prepawn,long_gun
 Rhode Island,2021-01-01,prepawn_long_gun,0.0,prepawn,long_gun
 Rhode Island,2020-12-01,prepawn_long_gun,0.0,prepawn,long_gun
@@ -2393,6 +2402,7 @@ Rhode Island,1999-04-01,prepawn_long_gun,,prepawn,long_gun
 Rhode Island,1999-03-01,prepawn_long_gun,,prepawn,long_gun
 Rhode Island,1999-02-01,prepawn_long_gun,,prepawn,long_gun
 Rhode Island,1999-01-01,prepawn_long_gun,,prepawn,long_gun
+Rhode Island,2021-03-01,prepawn_other,0.0,prepawn,other
 Rhode Island,2021-02-01,prepawn_other,0.0,prepawn,other
 Rhode Island,2021-01-01,prepawn_other,0.0,prepawn,other
 Rhode Island,2020-12-01,prepawn_other,0.0,prepawn,other
@@ -2659,6 +2669,7 @@ Rhode Island,1999-04-01,prepawn_other,,prepawn,other
 Rhode Island,1999-03-01,prepawn_other,,prepawn,other
 Rhode Island,1999-02-01,prepawn_other,,prepawn,other
 Rhode Island,1999-01-01,prepawn_other,,prepawn,other
+Rhode Island,2021-03-01,redemption_handgun,3.0,redemption,handgun
 Rhode Island,2021-02-01,redemption_handgun,6.0,redemption,handgun
 Rhode Island,2021-01-01,redemption_handgun,3.0,redemption,handgun
 Rhode Island,2020-12-01,redemption_handgun,5.0,redemption,handgun
@@ -2925,6 +2936,7 @@ Rhode Island,1999-04-01,redemption_handgun,,redemption,handgun
 Rhode Island,1999-03-01,redemption_handgun,,redemption,handgun
 Rhode Island,1999-02-01,redemption_handgun,,redemption,handgun
 Rhode Island,1999-01-01,redemption_handgun,,redemption,handgun
+Rhode Island,2021-03-01,redemption_long_gun,0.0,redemption,long_gun
 Rhode Island,2021-02-01,redemption_long_gun,0.0,redemption,long_gun
 Rhode Island,2021-01-01,redemption_long_gun,1.0,redemption,long_gun
 Rhode Island,2020-12-01,redemption_long_gun,2.0,redemption,long_gun
@@ -3191,6 +3203,7 @@ Rhode Island,1999-04-01,redemption_long_gun,,redemption,long_gun
 Rhode Island,1999-03-01,redemption_long_gun,,redemption,long_gun
 Rhode Island,1999-02-01,redemption_long_gun,,redemption,long_gun
 Rhode Island,1999-01-01,redemption_long_gun,,redemption,long_gun
+Rhode Island,2021-03-01,redemption_other,0.0,redemption,other
 Rhode Island,2021-02-01,redemption_other,0.0,redemption,other
 Rhode Island,2021-01-01,redemption_other,0.0,redemption,other
 Rhode Island,2020-12-01,redemption_other,0.0,redemption,other
@@ -3457,6 +3470,7 @@ Rhode Island,1999-04-01,redemption_other,,redemption,other
 Rhode Island,1999-03-01,redemption_other,,redemption,other
 Rhode Island,1999-02-01,redemption_other,,redemption,other
 Rhode Island,1999-01-01,redemption_other,,redemption,other
+Rhode Island,2021-03-01,returned_handgun,326.0,returned,handgun
 Rhode Island,2021-02-01,returned_handgun,225.0,returned,handgun
 Rhode Island,2021-01-01,returned_handgun,401.0,returned,handgun
 Rhode Island,2020-12-01,returned_handgun,238.0,returned,handgun
@@ -3723,6 +3737,7 @@ Rhode Island,1999-04-01,returned_handgun,,returned,handgun
 Rhode Island,1999-03-01,returned_handgun,,returned,handgun
 Rhode Island,1999-02-01,returned_handgun,,returned,handgun
 Rhode Island,1999-01-01,returned_handgun,,returned,handgun
+Rhode Island,2021-03-01,returned_long_gun,120.0,returned,long_gun
 Rhode Island,2021-02-01,returned_long_gun,104.0,returned,long_gun
 Rhode Island,2021-01-01,returned_long_gun,152.0,returned,long_gun
 Rhode Island,2020-12-01,returned_long_gun,115.0,returned,long_gun
@@ -3989,6 +4004,7 @@ Rhode Island,1999-04-01,returned_long_gun,,returned,long_gun
 Rhode Island,1999-03-01,returned_long_gun,,returned,long_gun
 Rhode Island,1999-02-01,returned_long_gun,,returned,long_gun
 Rhode Island,1999-01-01,returned_long_gun,,returned,long_gun
+Rhode Island,2021-03-01,returned_other,267.0,returned,other
 Rhode Island,2021-02-01,returned_other,251.0,returned,other
 Rhode Island,2021-01-01,returned_other,248.0,returned,other
 Rhode Island,2020-12-01,returned_other,292.0,returned,other
@@ -4255,6 +4271,7 @@ Rhode Island,1999-04-01,returned_other,,returned,other
 Rhode Island,1999-03-01,returned_other,,returned,other
 Rhode Island,1999-02-01,returned_other,,returned,other
 Rhode Island,1999-01-01,returned_other,,returned,other
+Rhode Island,2021-03-01,rentals_handgun,0.0,rentals,handgun
 Rhode Island,2021-02-01,rentals_handgun,0.0,rentals,handgun
 Rhode Island,2021-01-01,rentals_handgun,0.0,rentals,handgun
 Rhode Island,2020-12-01,rentals_handgun,0.0,rentals,handgun
@@ -4521,6 +4538,7 @@ Rhode Island,1999-04-01,rentals_handgun,,rentals,handgun
 Rhode Island,1999-03-01,rentals_handgun,,rentals,handgun
 Rhode Island,1999-02-01,rentals_handgun,,rentals,handgun
 Rhode Island,1999-01-01,rentals_handgun,,rentals,handgun
+Rhode Island,2021-03-01,rentals_long_gun,0.0,rentals,long_gun
 Rhode Island,2021-02-01,rentals_long_gun,0.0,rentals,long_gun
 Rhode Island,2021-01-01,rentals_long_gun,0.0,rentals,long_gun
 Rhode Island,2020-12-01,rentals_long_gun,0.0,rentals,long_gun
@@ -4787,6 +4805,7 @@ Rhode Island,1999-04-01,rentals_long_gun,,rentals,long_gun
 Rhode Island,1999-03-01,rentals_long_gun,,rentals,long_gun
 Rhode Island,1999-02-01,rentals_long_gun,,rentals,long_gun
 Rhode Island,1999-01-01,rentals_long_gun,,rentals,long_gun
+Rhode Island,2021-03-01,private_sale_handgun,13.0,private_sale,handgun
 Rhode Island,2021-02-01,private_sale_handgun,11.0,private_sale,handgun
 Rhode Island,2021-01-01,private_sale_handgun,11.0,private_sale,handgun
 Rhode Island,2020-12-01,private_sale_handgun,13.0,private_sale,handgun
@@ -5053,6 +5072,7 @@ Rhode Island,1999-04-01,private_sale_handgun,,private_sale,handgun
 Rhode Island,1999-03-01,private_sale_handgun,,private_sale,handgun
 Rhode Island,1999-02-01,private_sale_handgun,,private_sale,handgun
 Rhode Island,1999-01-01,private_sale_handgun,,private_sale,handgun
+Rhode Island,2021-03-01,private_sale_long_gun,5.0,private_sale,long_gun
 Rhode Island,2021-02-01,private_sale_long_gun,5.0,private_sale,long_gun
 Rhode Island,2021-01-01,private_sale_long_gun,5.0,private_sale,long_gun
 Rhode Island,2020-12-01,private_sale_long_gun,8.0,private_sale,long_gun
@@ -5319,6 +5339,7 @@ Rhode Island,1999-04-01,private_sale_long_gun,,private_sale,long_gun
 Rhode Island,1999-03-01,private_sale_long_gun,,private_sale,long_gun
 Rhode Island,1999-02-01,private_sale_long_gun,,private_sale,long_gun
 Rhode Island,1999-01-01,private_sale_long_gun,,private_sale,long_gun
+Rhode Island,2021-03-01,private_sale_other,1.0,private_sale,other
 Rhode Island,2021-02-01,private_sale_other,0.0,private_sale,other
 Rhode Island,2021-01-01,private_sale_other,0.0,private_sale,other
 Rhode Island,2020-12-01,private_sale_other,0.0,private_sale,other
@@ -5585,6 +5606,7 @@ Rhode Island,1999-04-01,private_sale_other,,private_sale,other
 Rhode Island,1999-03-01,private_sale_other,,private_sale,other
 Rhode Island,1999-02-01,private_sale_other,,private_sale,other
 Rhode Island,1999-01-01,private_sale_other,,private_sale,other
+Rhode Island,2021-03-01,return_to_seller_handgun,0.0,return_to_seller,handgun
 Rhode Island,2021-02-01,return_to_seller_handgun,0.0,return_to_seller,handgun
 Rhode Island,2021-01-01,return_to_seller_handgun,1.0,return_to_seller,handgun
 Rhode Island,2020-12-01,return_to_seller_handgun,0.0,return_to_seller,handgun
@@ -5851,6 +5873,7 @@ Rhode Island,1999-04-01,return_to_seller_handgun,,return_to_seller,handgun
 Rhode Island,1999-03-01,return_to_seller_handgun,,return_to_seller,handgun
 Rhode Island,1999-02-01,return_to_seller_handgun,,return_to_seller,handgun
 Rhode Island,1999-01-01,return_to_seller_handgun,,return_to_seller,handgun
+Rhode Island,2021-03-01,return_to_seller_long_gun,0.0,return_to_seller,long_gun
 Rhode Island,2021-02-01,return_to_seller_long_gun,0.0,return_to_seller,long_gun
 Rhode Island,2021-01-01,return_to_seller_long_gun,0.0,return_to_seller,long_gun
 Rhode Island,2020-12-01,return_to_seller_long_gun,1.0,return_to_seller,long_gun
@@ -6117,6 +6140,7 @@ Rhode Island,1999-04-01,return_to_seller_long_gun,,return_to_seller,long_gun
 Rhode Island,1999-03-01,return_to_seller_long_gun,,return_to_seller,long_gun
 Rhode Island,1999-02-01,return_to_seller_long_gun,,return_to_seller,long_gun
 Rhode Island,1999-01-01,return_to_seller_long_gun,,return_to_seller,long_gun
+Rhode Island,2021-03-01,return_to_seller_other,0.0,return_to_seller,other
 Rhode Island,2021-02-01,return_to_seller_other,0.0,return_to_seller,other
 Rhode Island,2021-01-01,return_to_seller_other,0.0,return_to_seller,other
 Rhode Island,2020-12-01,return_to_seller_other,0.0,return_to_seller,other
