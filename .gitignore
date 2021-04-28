@@ -151,3 +151,6 @@ ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
 ri-covid-19-tracker/data/raw/ri-covid-19.csv
 ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
 ri-school-attendance/config.json
+ri-dunkin-isochrone/data/raw/*.geojson
+ri-dunkin-isochrone/data/clean/*.geojson
+ri-dunkin-isochrone/data/files/*
