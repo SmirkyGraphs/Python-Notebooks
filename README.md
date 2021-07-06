@@ -1,5 +1,20 @@
 # Python-Notebooks (Newest to Oldest)
 
+## FBI NICS Background Checks
+Tools used: `pandas`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/nics-background-checks)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/tree/master/nics-background-checks/)  |  [Final Product](https://public.tableau.com/app/profile/smirkygraphs/viz/RhodeIslandNICSBackgroundChecks/main)
+
+## League of Legends: Regions Picks & Bans
+Tools used: `pandas`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/league-region-meta)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/tree/master/league-region-meta/)  |  [Final Product](https://public.tableau.com/app/profile/smirkygraphs/viz/LeagueofLegendsRegionMeta/main)
+
+## Governor's Office Payroll
+Tools used: `pandas`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/gov-office-payroll)  |  [Nbviewer](https://nbviewer.jupyter.org/github/SmirkyGraphs/Python-Notebooks/tree/master/gov-office-payroll/)  |  [Final Product](https://ivizri.com/posts/2021/04/governors-office-transition/)
+
 ## Rhode Island Election Analysis
 Tools used: `pandas`<br>
 Skills used: `data-cleaning`<br>
@@ -153,7 +168,7 @@ Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/cam
 ## Presidental Election Donations
 Tools used: `seaborns` `pandas`<br>
 Skills used: `data-cleaning` `visualization`<br>
-Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/ri-school-performance/school-performance-cleaning.ipynb)  | [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/campaign-contributions/2016%20Presidential%20US/2016-campaign-contributions.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/python-notebooks/donations-2016)
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/blob/master/campaign-contributions)  | [Nbviewer](https://nbviewer.jupyter.org/github/smirkygraphs/Python-Notebooks/blob/master/campaign-contributions/2016%20Presidential%20US/2016-campaign-contributions.ipynb)  |  [Final Product](https://smirkygraphs.github.io/portfolio/python-notebooks/donations-2016)
 
 ## Presidental Election Events (2016) 
 Tools used: `seaborns` `pandas`<br>
