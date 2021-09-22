@@ -154,3 +154,16 @@ ri-school-attendance/config.json
 ri-dunkin-isochrone/data/raw/*.geojson
 ri-dunkin-isochrone/data/clean/*.geojson
 ri-dunkin-isochrone/data/files/*
+
+cumberland-farms-locations/data/raw/*.geojson
+cumberland-farms-locations/data/clean/*.geojson
+cumberland-farms-locations/data/files/*.csv
+cumberland-farms-locations/config.json
+
+league-region-meta/data/raw/*.csv
+
+nhl-players-per-season/data/raw/*.json
+
+reddit-dogecoin-bot-tips/data/clean/*.csv
+reddit-dogecoin-bot-tips/data/raw/*.csv
+reddit-dogecoin-bot-tips/config.json
