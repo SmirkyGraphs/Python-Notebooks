@@ -1,5 +1,25 @@
 # Python-Notebooks (Newest to Oldest)
 
+## Cumberland Farms Isochrone
+Tools used: `geopandas` `shapely` `here-api`<br>
+Skills used: `data-cleaning` `gis`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/cumberland-farms-locations)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/cumberland-farms-locations/)  |  [Final Product](https://mobile.twitter.com/SmirkyGraphs/status/1439911175991529472/photo/1)
+
+## Reddit Dogecoin Tips Bot
+Tools used: `pandas` `praw`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/reddit-dogecoin-bot-tips)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/reddit-dogecoin-bot-tips/)  |  [Final Product](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/reddit-dogecoin-bot-tips/)
+
+## ERA Rental Assistance
+Tools used: `pandas`<br>
+Skills used: `data-cleaning`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/states-rental-assistance)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/states-rental-assistance/)  |  [Final Product](https://public.tableau.com/app/profile/smirkygraphs/viz/U_S_EmergencyRentalAssistanceSpending/main)
+
+## RI Dunkin' Isochrone
+Tools used: `geopandas` `shapely` `here-api`<br>
+Skills used: `data-cleaning` `gis`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/ri-dunkin-isochrone)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/ri-dunkin-isochrone/)  |  [Final Product](https://ivizri.com/posts/2021/04/dunkin-isochrone/)
+
 ## FBI NICS Background Checks
 Tools used: `pandas`<br>
 Skills used: `data-cleaning`<br>
