@@ -173,3 +173,7 @@ gov-office-payroll/data/raw/bhddh_post_gina.csv
 
 nics-background-checks/data/clean/*.csv
 nics-background-checks/data/raw/*.csv
+states-rental-assistance/data/raw/November-ERA-Data.xlsx
+states-rental-assistance/data/raw/October-ERA-Data.xlsx
+states-rental-assistance/data/raw/September-ERA-Data.xlsx
+states-rental-assistance/state-rental-assistance-Oct.ipynb

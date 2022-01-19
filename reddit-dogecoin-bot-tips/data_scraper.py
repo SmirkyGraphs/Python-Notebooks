@@ -50,7 +50,7 @@ def collect_comment(comment):
 
 def post_details(post):
     # if already collected return empty dict otherwise add to set
-    if (post.id in post_id_set) or (post == None) :
+    if (post.id in post_id_set) or (post == None):
         return {}
     else: 
         post_id_set.add(post.id)
