@@ -167,3 +167,11 @@ nhl-players-per-season/data/raw/*.json
 reddit-dogecoin-bot-tips/data/clean/*.csv
 reddit-dogecoin-bot-tips/data/raw/*.csv
 reddit-dogecoin-bot-tips/config.json
+
+ri-state-redistrict/data/clean/**/**/*.geojson
+gov-office-payroll/data/raw/bhddh_post_gina.csv
+nics-background-checks/data/clean/nics-firearm-clean.csv
+nics-background-checks/data/clean/ri-nics-firearm-clean.csv
+nics-background-checks/data/clean/state-ranks.csv
+nics-background-checks/data/raw/nics-firearm-background-checks.csv
+nics-background-checks/nics-background-checks.ipynb
