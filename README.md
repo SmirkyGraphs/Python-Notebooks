@@ -1,5 +1,15 @@
 # Python-Notebooks (Newest to Oldest)
 
+## NHL Game Timeouts
+Tools used: `pandas` `tableau`<br>
+Skills used: `data-cleaning` `api` `visualization`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/nhl-game-timeouts)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/nhl-game-timeouts/)  |  [Final Product](https://public.tableau.com/app/profile/smirkygraphs/viz/NHLTeamTimeouts2020-21Season/main)
+
+## NHL Coaching Challenges
+Tools used: `pandas` `tableau`<br>
+Skills used: `data-cleaning` `api` `visualization`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/nhl-coaches-challenge)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/nhl-coaches-challenge/)  |  [Final Product](https://public.tableau.com/app/profile/smirkygraphs/viz/NHLCoachsChallenge/coach-challenge)
+
 ## Cumberland Farms Isochrone
 Tools used: `geopandas` `shapely` `here-api`<br>
 Skills used: `data-cleaning` `gis`<br>
