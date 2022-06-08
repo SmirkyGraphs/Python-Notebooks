@@ -182,3 +182,8 @@ ri-state-redistrict/data/files/senate_tl_2018_44_sldu.geojson
 ri-state-redistrict/current-districts.ipynb
 
 dels-isochrone/data/raw/*.geojson
+dels-isochrone/config.json
+dels-isochrone/data/clean/ri/combined.geojson
+dels-isochrone/data/clean/ri/combined_oos.geojson
+dels-isochrone/Untitled.ipynb
+dels-isochrone/Untitled1.ipynb
