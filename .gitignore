@@ -177,3 +177,8 @@ states-rental-assistance/data/raw/November-ERA-Data.xlsx
 states-rental-assistance/data/raw/October-ERA-Data.xlsx
 states-rental-assistance/data/raw/September-ERA-Data.xlsx
 states-rental-assistance/state-rental-assistance-Oct.ipynb
+ri-state-redistrict/data/files/house_tl_2018_44_sldl.geojson
+ri-state-redistrict/data/files/senate_tl_2018_44_sldu.geojson
+ri-state-redistrict/current-districts.ipynb
+
+dels-isochrone/data/raw/*.geojson
