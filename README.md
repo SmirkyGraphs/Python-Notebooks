@@ -1,5 +1,15 @@
 # Python-Notebooks (Newest to Oldest)
 
+## RI Candidate Filings
+Tools used: `pandas` `selenium` `tableau`<br>
+Skills used: `data-cleaning` `webscraping` `visualization`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/ri-candidate-filing)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/ri-candidate-filing/)  |  [Final Product](https://public.tableau.com/app/profile/smirkygraphs/viz/RI2022SenateRaceBreakdown/main)
+
+## Hospital Staff Shortages
+Tools used: `pandas` `tableau`<br>
+Skills used: `data-cleaning` `api` `visualization`<br>
+Links: [Github](https://github.com/SmirkyGraphs/Python-Notebooks/tree/master/hospital-staffing-shortage)  |  [Nbviewer](https://nbviewer.org/github/SmirkyGraphs/Python-Notebooks/tree/master/hospital-staffing-shortage/)  |  [Final Product](https://public.tableau.com/app/profile/smirkygraphs/viz/RhodeIslandHospital-TotalBeds/main)
+
 ## NHL Game Timeouts
 Tools used: `pandas` `tableau`<br>
 Skills used: `data-cleaning` `api` `visualization`<br>
